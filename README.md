@@ -1,4 +1,4 @@
-# Things
+```# Things
 Cod
 
 # 1. DECLARE A VARIABLE
